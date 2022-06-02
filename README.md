@@ -1,2 +1,2 @@
-# SD1_CW
+# SD1CW
 Software Development 1 Coursework
